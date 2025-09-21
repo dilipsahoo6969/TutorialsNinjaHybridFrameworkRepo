@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 
-//Updated Comment
+//Updated Comment- Added more details.
 
 
 public class SearchTest extends Base {
